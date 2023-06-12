@@ -1,7 +1,7 @@
 arch: s390x
 os: linux
 dist: focal
-language: minimal
+language: shell
 
 addons:
   apt:
